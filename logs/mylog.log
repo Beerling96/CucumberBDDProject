@@ -1,0 +1,285 @@
+[INFO ] 2022-10-31 15:51:57.601 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 15:51:57.657 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 15:51:59.200 [main] StepDef - Url opened
+[INFO ] 2022-10-31 15:51:59.620 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 15:52:05.122 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 15:52:05.136 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 15:52:07.356 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 15:52:09.379 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 15:52:09.580 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 15:59:49.224 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 15:59:49.276 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 15:59:50.879 [main] StepDef - Url opened
+[INFO ] 2022-10-31 15:59:51.273 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 15:59:56.444 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 15:59:56.491 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 15:59:58.620 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 16:00:02.697 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 16:00:06.471 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 16:00:06.525 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 16:00:08.169 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 16:00:09.925 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 16:00:10.503 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 16:00:10.718 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 16:00:12.071 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 16:00:12.078 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:00:12.841 [main] StepDef - Url opened
+[INFO ] 2022-10-31 16:00:13.224 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 16:00:18.634 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 16:00:18.677 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 16:00:20.600 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 16:00:22.617 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 16:00:22.872 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 16:02:32.565 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 16:02:32.615 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:02:34.282 [main] StepDef - Url opened
+[INFO ] 2022-10-31 16:02:34.686 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 16:02:39.342 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 16:02:39.356 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 16:02:41.533 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 16:02:45.465 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 16:02:49.327 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 16:02:49.381 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 16:02:50.922 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 16:02:52.859 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 16:02:53.158 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 16:02:53.394 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 16:02:54.744 [main] StepDef - Setup 2 Executed...
+[INFO ] 2022-10-31 16:02:54.747 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:02:56.427 [main] StepDef - Url opened
+[INFO ] 2022-10-31 16:02:56.815 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 16:03:03.536 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 16:03:03.546 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 16:03:05.694 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 16:03:09.945 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 16:03:12.210 [main] StepDef - Email address entered
+[INFO ] 2022-10-31 16:03:12.308 [main] StepDef - Clicked on search button
+[INFO ] 2022-10-31 16:03:16.087 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 16:03:16.090 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:03:16.887 [main] StepDef - Url opened
+[INFO ] 2022-10-31 16:03:17.269 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 16:03:23.317 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 16:03:23.344 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 16:03:24.931 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 16:03:26.957 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 16:03:27.179 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 16:03:28.434 [main] StepDef - Setup 2 Executed...
+[INFO ] 2022-10-31 16:03:28.438 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:03:30.021 [main] StepDef - Url opened
+[INFO ] 2022-10-31 16:03:30.398 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 16:03:35.422 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 16:03:35.440 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 16:03:37.286 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 16:03:39.304 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 16:03:39.494 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 16:12:21.008 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 16:12:21.104 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:12:45.332 [main] StepDef - Setup 2 Executed...
+[INFO ] 2022-10-31 16:12:45.336 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:17:37.838 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 16:17:37.890 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:17:39.437 [main] StepDef - Url opened
+[INFO ] 2022-10-31 16:17:39.834 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 16:17:44.972 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 16:17:44.987 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 16:17:47.186 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 16:17:51.241 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 16:17:55.013 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 16:17:55.056 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 16:17:56.699 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 16:17:58.669 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 16:17:59.317 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 16:18:01.597 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 16:18:01.601 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 16:18:03.157 [main] StepDef - Url opened
+[INFO ] 2022-10-31 16:18:03.538 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 16:18:08.788 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 16:18:08.801 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 17:46:17.032 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 17:46:17.080 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 17:46:18.813 [main] StepDef - Url opened
+[INFO ] 2022-10-31 17:46:19.259 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 17:46:24.642 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 17:46:24.671 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 17:46:26.339 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 17:46:28.363 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:21:06.803 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:21:06.896 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:21:23.619 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:21:24.245 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:21:31.120 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:21:31.321 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 18:21:33.687 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 18:21:41.635 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 18:21:47.278 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 18:21:47.507 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 18:21:49.422 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 18:21:52.859 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 18:21:53.413 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 18:21:55.118 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:21:55.123 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:22:06.737 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:22:07.347 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:22:15.561 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:22:15.890 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:22:17.884 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 18:22:20.036 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:43:15.565 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:43:15.635 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:43:17.411 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:43:17.843 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:43:23.950 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:43:23.975 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 18:43:26.245 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 18:43:30.825 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 18:43:35.421 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 18:43:35.522 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 18:43:37.104 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 18:43:39.194 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 18:43:39.471 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 18:43:41.138 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:43:41.141 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:43:42.059 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:43:42.565 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:43:47.454 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:43:47.474 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:43:49.093 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 18:43:51.118 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:45:14.494 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:45:14.597 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:45:16.238 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:45:16.726 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:45:22.449 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:45:22.469 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 18:45:24.750 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 18:45:28.961 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 18:45:34.638 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 18:45:34.650 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 18:45:36.133 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 18:45:38.343 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 18:45:38.646 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 18:45:38.841 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 18:45:40.138 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:45:40.148 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:46:29.652 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:46:30.089 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:46:37.058 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:46:37.080 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:46:38.706 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 18:46:40.739 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:46:41.009 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 18:50:30.537 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:50:30.594 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:50:32.199 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:50:32.643 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:50:39.090 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:50:39.123 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 18:50:41.288 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 18:50:45.301 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 18:50:49.301 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 18:50:49.360 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 18:50:50.958 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 18:50:52.936 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 18:50:53.384 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 18:50:53.603 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 18:50:55.017 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 18:50:55.021 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 18:51:06.594 [main] StepDef - Url opened
+[INFO ] 2022-10-31 18:51:07.040 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 18:51:12.344 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 18:51:12.358 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:51:14.215 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 18:51:16.256 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 18:51:16.823 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:19:55.018 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:19:55.095 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:19:56.921 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:19:57.346 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:20:03.607 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:20:03.647 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 19:20:06.081 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 19:20:11.004 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 19:20:16.125 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 19:20:16.176 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 19:20:17.905 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 19:20:20.589 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 19:20:21.055 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 19:20:21.293 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:20:22.732 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:20:22.737 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:20:24.348 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:20:24.753 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:20:28.241 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:20:28.272 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:20:29.893 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 19:20:31.907 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:20:32.149 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:24:40.308 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:24:40.382 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:24:41.973 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:24:42.396 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:24:46.865 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:24:46.913 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 19:24:49.031 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 19:24:53.648 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 19:24:57.674 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 19:24:57.719 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 19:24:59.200 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 19:25:01.650 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 19:25:02.034 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 19:25:02.271 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:25:03.552 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:25:03.559 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:25:05.702 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:25:06.230 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:25:11.594 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:25:11.616 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:25:13.372 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 19:25:15.396 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:25:15.615 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:26:28.238 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:26:28.321 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:26:29.386 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:26:29.817 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:26:36.144 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:26:36.161 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 19:26:38.438 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 19:26:44.169 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 19:26:49.688 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 19:26:49.831 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 19:26:51.327 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 19:26:53.655 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 19:26:54.249 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 19:26:54.502 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:26:55.880 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:26:55.885 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:26:56.736 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:26:57.144 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:27:04.617 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:27:04.638 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:27:07.175 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 19:27:09.218 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:27:09.435 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:30:12.722 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:30:12.788 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:30:14.343 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:30:14.798 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:30:22.060 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:30:22.113 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 19:30:24.353 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 19:30:28.686 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 19:30:32.713 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 19:30:32.778 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 19:30:34.342 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 19:30:36.121 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 19:30:36.704 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 19:30:36.945 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 19:30:38.352 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 19:30:38.357 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 19:30:40.360 [main] StepDef - Url opened
+[INFO ] 2022-10-31 19:30:40.754 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 19:30:46.932 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 19:30:46.956 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:30:48.733 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 19:30:50.747 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 19:30:50.944 [main] StepDef - Browser closed

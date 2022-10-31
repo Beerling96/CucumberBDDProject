@@ -1,0 +1,7 @@
+PgeObject\LoginPage.class
+PgeObject\AddNewCustomerPage.class
+Utilities\ReadConfig.class
+TestRunner\Run.class
+PgeObject\SearchCustomerPage.class
+StepDefinition\BaseClass.class
+StepDefinition\StepDef.class
