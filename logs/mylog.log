@@ -283,3 +283,26 @@
 [INFO ] 2022-10-31 19:30:48.733 [main] StepDef - User clicked on log out link
 [INFO ] 2022-10-31 19:30:50.747 [main] StepDef - Test Passed : log in feature page tiltle matched
 [INFO ] 2022-10-31 19:30:50.944 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 23:47:48.545 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 23:47:48.608 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 23:47:50.353 [main] StepDef - Url opened
+[INFO ] 2022-10-31 23:47:50.813 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 23:48:03.009 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 23:48:03.019 [main] StepDef - User can view Dashboard test passed
+[INFO ] 2022-10-31 23:48:05.367 [main] StepDef - User clicked on customer Menu
+[INFO ] 2022-10-31 23:48:10.435 [main] StepDef - User clicked on customer Menu item
+[INFO ] 2022-10-31 23:48:18.121 [main] StepDef - User clicked on Add new button
+[INFO ] 2022-10-31 23:48:18.191 [main] StepDef - User can view Add New Customer page test passed
+[INFO ] 2022-10-31 23:48:20.214 [main] StepDef - Customer information entered
+[INFO ] 2022-10-31 23:48:22.887 [main] StepDef - Clicked on Save button
+[INFO ] 2022-10-31 23:48:23.231 [main] StepDef - User can view confirmation message test passed
+[INFO ] 2022-10-31 23:48:23.478 [main] StepDef - Browser closed
+[INFO ] 2022-10-31 23:48:25.132 [main] StepDef - Setup 1 Executed...
+[INFO ] 2022-10-31 23:48:25.135 [main] StepDef - User launch chrome browser
+[INFO ] 2022-10-31 23:48:26.929 [main] StepDef - Url opened
+[INFO ] 2022-10-31 23:48:27.490 [main] StepDef - email address and password entered
+[INFO ] 2022-10-31 23:48:34.285 [main] StepDef - Clicked on Login
+[INFO ] 2022-10-31 23:48:34.328 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 23:48:36.195 [main] StepDef - User clicked on log out link
+[INFO ] 2022-10-31 23:48:38.197 [main] StepDef - Test Passed : log in feature page tiltle matched
+[INFO ] 2022-10-31 23:48:38.335 [main] StepDef - Browser closed
